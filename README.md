@@ -1,6 +1,6 @@
 **数据：**搜狗文本分类语料库  
 **分类器：**朴素贝叶斯分类器 NBC(Naive Bayesian Classifier)  
-**编程语言：**Python+jieba分词库+nltk+sklearn
+**编程语言：**Python+jieba分词库+nltk+sklearn  
 **改进：**  
 1. 应该在处理每个文本的时候，应该去除一些杂乱信息，减少内存占用等  
 2. 如果在事先有词典的情况下，可以直接提取文本特征
